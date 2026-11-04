@@ -10,6 +10,6 @@
 | JUnit 4 | `junit:junit:4.13.2`，仅用于单元测试 | [JUnit 4](https://github.com/junit-team/junit4)，[Eclipse Public License 1.0](https://github.com/junit-team/junit4/blob/main/LICENSE-junit.txt) |
 | JSON-java | `org.json:json:20240303`，仅用于单元测试 | [JSON-java](https://github.com/stleary/JSON-java/tree/20240303)，[该版本许可声明：Public Domain](https://github.com/stleary/JSON-java/blob/20240303/LICENSE) |
 
-运行环境需要用户自行获取并配置微信、微 X（也称微叉、微插；包名 `cn.android.x`）及兼容的 Xposed/LSPosed 框架。这些软件均由各自权利人提供，本仓库不转载微信、微 X、原修复模块或其安装包。可从 [LSPosed 模块目录中的 X 条目](https://modules.lsposed.org/module/cn.android.x/)查找微 X 的发布信息；请自行核验来源、版本和适用条款。
+运行环境需要用户自行获取并配置VX、微 X（也称微叉、微插；包名 `cn.android.x`）及兼容的 Xposed/LSPosed 框架。这些软件均由各自权利人提供，本仓库不转载VX、微 X、原修复模块或其安装包。可从 [LSPosed 模块目录中的 X 条目](https://modules.lsposed.org/module/cn.android.x/)查找微 X 的发布信息；请自行核验来源、版本和适用条款。
 
 原工程部分自测图片与语音素材的公开再分发权属尚未确认，本公开目录未收录这些素材。相关媒体自测因此可能不可用；这不代表真实媒体自动回复已完成当前版本的完整回归。若后续补充素材，应先核验权属并说明来源。
